@@ -18228,10 +18228,10 @@
     "repo": "bao-tg/kindle-vocab"
   }
   {
-  "id": "create-new-page-from-selection",
-  "name": "Create New Page from Selection",
+  "id": "page-manager-plugin",
+  "name": "页面管理插件",
   "author": "szxe",
-  "description": "Right-click selected text to create a new note in a folder named after the current file.",
-  "repo": "szxe/create-new-page-from-selection/"
+  "description": "一个用于创建和删除页面的Obsidian插件",
+  "repo": "szxe/page-manager-plugin"
   }
 ]
